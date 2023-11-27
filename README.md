@@ -17,7 +17,7 @@ Simply sign up, create a group, add expenses, and let EZSplit do the math for yo
 We value your input! Your feedback, suggestions, and comments are crucial in making EZSplit better. Feel free to:
 
 - Open an issue to report bugs or suggest improvements.
-- Share your thoughts and feedback to the Discussions section or thru email.
+- Share your thoughts and feedback thru [email](mailto:brandoncloudndapp@outlook.com).
 - Leave feedback on your experience with EZSplit.
 
 
